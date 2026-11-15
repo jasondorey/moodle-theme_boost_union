@@ -4,6 +4,10 @@ moodle-theme_boost_union
 Changes
 -------
 
+### Unreleased
+
+* 2026-11-15 - Improvement: Use the same tertiary navigation style in settings as activities (forum, feedback, lesson, assign, question bank) do, resolves #898
+
 ### v5.3-r2
 
 * 2026-11-13 - Upstream change: Adopt changes from MDL-90110 to cache the editor content CSS in MUC when it is served by the flavours stylesheet script.\
